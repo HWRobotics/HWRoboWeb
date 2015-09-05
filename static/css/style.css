@@ -14,6 +14,15 @@ body {
   font-size: 7em;
 }
 
+.sectionhead {
+  font-size: 10;
+  font-size: 6em;
+}
+
+.sectiontext {
+  font-size: 30;
+}
+
 .bannertitle {
   width: 100%;
   overflow: hidden;
@@ -36,8 +45,29 @@ body {
     width: 178px;
     float:left;
     font-size: 30;
+    margin-left: 90;
 }
 
 .main {
-  margin-left:178px;
- }
+  margin-left:280;
+}
+
+a:link {
+    text-decoration: none;
+    color: #000;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #474747;
+}
+
+a:active {
+    text-decoration: none;
+    color: #474747;
+}

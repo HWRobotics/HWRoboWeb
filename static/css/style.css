@@ -55,6 +55,7 @@ body {
 a:link {
     text-decoration: none;
     color: #000;
+    font-weight: bolder;
 }
 
 a:visited {
